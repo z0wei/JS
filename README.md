@@ -1,2 +1,0 @@
-# JS
-my JS hacking 
